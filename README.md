@@ -1,4 +1,4 @@
-# JS Analyzer - Burp Suite Extension by (https://x.com/j6_mu)
+# JS Analyzer - Burp Suite Extension by cyberx
 
 A powerful Burp Suite extension for JavaScript static analysis. Extracts API endpoints, URLs, secrets, and email addresses from JavaScript files with intelligent noise filtering. The goal is reduce noise as much as possible to ensure the accuracy
 
